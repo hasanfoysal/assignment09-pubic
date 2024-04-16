@@ -1,0 +1,128 @@
+[
+    {
+      "image": "/public/contact.jpg",
+      "estate_title": "Modern Family Home in Desirable Neighborhood",
+      "id": 1,
+      "segment_name": "Residential",
+      "description": "This stunning 4-bedroom, 2.5-bathroom house boasts a spacious open floor plan, a gourmet kitchen with granite countertops and stainless steel appliances, and a beautiful backyard with a swimming pool. Perfect for families!",
+      "price": 750000,
+      "status": "sale",
+      "area": 2500,
+      "location": "123 Maple Street, Sunnyville, CA",
+      "facilities": [
+        "Living Room",
+        "Dining Room",
+        "Family Room",
+        "Kitchen",
+        "4 Bedrooms",
+        "2.5 Bathrooms",
+        "Swimming Pool",
+        "Garage (2 Cars)"
+      ]
+    },
+    {
+      "image": "/public/r1.png",
+      "estate_title": "Cozy Townhouse in Quiet Community",
+      "id": 2,
+      "segment_name": "Residential",
+      "description": "This charming 3-bedroom, 2-bathroom townhouse is perfect for first-time homebuyers or those looking for low-maintenance living. Enjoy the community pool and playground, and easy access to shopping and dining.",
+      "price": 425000,
+      "status": "sale",
+      "area": 1800,
+      "location": "456 Main Street, Anytown, USA",
+      "facilities": [
+        "Living Room",
+        "Dining Room",
+        "Kitchen",
+        "3 Bedrooms",
+    "2 Bathrooms",
+        "Patio",
+        "In-Unit Laundry"
+      ]
+    },
+    {
+      "image": "/public/r2.png",
+      "estate_title": "Luxury High-Rise Apartment with City Views",
+      "id": 3,
+      "segment_name": "Residential",
+      "description": "Experience breathtaking city views from this spacious 2-bedroom, 2-bathroom apartment in a luxury high-rise building. Building amenities include a rooftop pool, fitness center, and concierge service.",
+      "price": 3500,
+      "status": "rent",
+      "area": 1200,
+      "location": "789 Elm Street, Metropolis, NY",
+      "facilities": [
+        "Living Room",
+        "Dining Room",
+        "Kitchen",
+        "2 Bedrooms",
+        "2 Bathrooms",
+        "Balcony",
+        "In-Unit Washer/Dryer"
+      ]
+    },
+    {
+        "image": "/public/r3.png",
+        "estate_title": "Student-Friendly Apartment Near University",
+        "id": 4,
+        "segment_name": "Residential",
+        "description": "This affordable 2-bedroom, 1-bathroom apartment is located just steps away from the university campus. Enjoy on-site laundry, a community courtyard, and easy access to public transportation.",
+        "price": 1800,
+        "status": "rent",
+        "area": 800,
+        "location": "1011 College Avenue, Universityville, NY",
+        "facilities": [
+          "Living Room",
+          "Kitchen",
+          "2 Bedrooms",
+          "1 Bathroom",
+          "On-site Laundry",
+          "Community Courtyard",
+          "Close to Public Transportation"
+        ]
+      },
+      {
+        "image": "/public/house-1867187_1280.jpg",
+        "estate_title": "Spacious Townhouse",
+        "id": 5,
+        "segment_name": "Residential",
+        "description": "This well-maintained 3-bedroom townhouse offers a private entrance, a finished basement, and a balcony. Perfect for small families or couples!",
+        "price": 425000,
+        "status": "sale",
+        "area": 1800,
+        "location": "789 Oak Lane, Suburbville, NJ",
+        "facilities": [
+          "Living Room",
+          "Dining Room",
+          "Kitchen",
+          "3 Bedrooms",
+          "2.5 Bathrooms",
+          "Finished Basement",
+          "Balcony",
+          "In-unit Washer/Dryer"
+        ],
+        "view_property_button": "View Townhouse"
+      },
+      {
+        "image": "/public/large-home-389271_1280.jpg",
+        "estate_title": "Charming Townhouse in Quiet Community",
+        "id": 6,
+        "segment_name": "Residential",
+        "description": "This well-maintained 3-bedroom townhouse offers a cozy living space with a fireplace, a private patio, and a two-car garage. Located in a quiet community with parks, schools, and easy access to highways.",
+        "price": 525000,
+        "status": "sale",
+        "area": 1800,
+        "location": "45 Elm Street, Suburbville, NJ 07047",
+        "facilities": [
+          "Living Room",
+          "Dining Room",
+          "Kitchen",
+          "3 Bedrooms",
+          "2.5 Bathrooms",
+          "Fireplace",
+          "Patio",
+          "Two-car garage"
+        ]
+      }
+   
+  ]
+  
