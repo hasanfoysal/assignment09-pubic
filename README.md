@@ -2,7 +2,7 @@
 
 Welcome to Real Estate! This website is one-stop destination for all things related to real estate. Whether you're buying, selling, or just browsing, RealEstateHub has you covered.
 
-Check out the live site [here](https://b9a9-project-auth.web.app/).
+Check out the live site [here](https://661fba82a0c502b65f795d22--musical-gaufre-626ea8.netlify.app/).
 
 ## Features:
 

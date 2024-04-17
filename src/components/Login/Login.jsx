@@ -124,10 +124,10 @@ const Login = () => {
                <h1 className='text-center'>Login with social account</h1>
                <div className='flex align-middle justify-center gap-2'>
                 <div onClick={handleGithubSignIn}>
-                <img className='w-8 h-8' src="/public/download (4).png" alt="" />
+                <img className='w-8 h-8' src="/download (4).png" alt="" />
                 </div>
                 <div onClick={handleGoogleSignIn}>
-                <img className='w-8 h-8' src="/public/download (5).png" alt="" />
+                <img className='w-8 h-8' src="/download (5).png" alt="" />
                 </div>
                 
                </div>
