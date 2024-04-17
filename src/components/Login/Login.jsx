@@ -8,6 +8,7 @@ import { Link } from 'react-router-dom';
 import { AuthContext } from '../../Providers/AuthProvider';
 import { GithubAuthProvider, GoogleAuthProvider, getAuth, signInWithPopup } from 'firebase/auth';
 import app from '../firebase/firebase.config';
+import {Helmet} from "react-helmet";
 
 import { FaEye, FaEyeSlash } from 'react-icons/fa';
 
@@ -79,6 +80,11 @@ const Login = () => {
     }
     return (
         <div >
+ <Helmet>
+                <meta charSet="utf-8" />
+                <title>Home</title>
+                <link rel="canonical" href="http://mysite.com/example" />
+            </Helmet>
         <div className="hero min-h-screen bg-base-200" >
         <div className="hero-content flex-col lg:flex-row-reverse">
           <div className="text-center lg:text-left"data-aos="flip-right" data-aos-duration="2000">

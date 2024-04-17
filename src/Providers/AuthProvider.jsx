@@ -17,6 +17,7 @@ const AuthProvider = ({children}) => {
     }
 
     const updateUserProfile = (name,image) =>{
+       // eslint-disable-next-line no-undef
        return updateProfile(auth.currentUser, {
             displayName:name, photoURL:image
           })

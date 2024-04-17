@@ -1,7 +1,12 @@
-
+import {Helmet} from "react-helmet";
 const AboutUs = () => {
     return (
         <div data-aos="fade-up" data-aos-duration='1000'>
+            <Helmet>
+               
+                <title>About</title>
+                
+            </Helmet>
             <div className="hero min-h-screen bg-base-200 lg:my-10">
   <div className="hero-content flex-col lg:flex-row space-x-10 lg:space-x-20">
     <img src="/public/1600w-CSP1sL3K9x0.webp" className="lg:w-[430px] lg:h-[420px] rounded-lg shadow-2xl lg:ml-10 ml-5" />
