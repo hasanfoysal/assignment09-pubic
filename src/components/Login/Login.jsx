@@ -15,7 +15,7 @@ import { FaEye, FaEyeSlash } from 'react-icons/fa';
 // ..
 AOS.init();
 const Login = () => {
-
+  const {signIn, setUser} = useContext(AuthContext);
   const [registerError, setRegisterError] = useState('')
   const [success, setSuccess] = useState('');
   const [showPassword, setShowPassword] = useState(false);
@@ -25,7 +25,7 @@ const Login = () => {
    const githubProvider = new GithubAuthProvider();
 
    const handleGoogleSignIn = () => {
-    signInWithPopup(auth,googleProvider)
+    signInWithPopup(auth, googleProvider)
     .then(result => {
       const user = result.user;
       console.log(user);
@@ -37,8 +37,8 @@ const Login = () => {
    }
 
    const handleGithubSignIn =() =>{
-    signInWithPopup(auth,githubProvider)
-    .then(result =>{
+    signInWithPopup(auth, githubProvider)
+    .then(result => {
       const loggedUser = result.user;
       console.log(loggedUser);
       setUser(loggedUser);
@@ -51,7 +51,7 @@ const Login = () => {
     })
    }
 
-  const {signIn} = useContext(AuthContext);
+  // const {signIn, setUser} = useContext(AuthContext);
 
 
     const handleLogin = e =>{

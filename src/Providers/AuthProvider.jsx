@@ -3,6 +3,7 @@ import { createContext, useEffect, useState } from "react";
 import { createUserWithEmailAndPassword, getAuth, onAuthStateChanged, signInWithEmailAndPassword, signOut } from "firebase/auth";
 import app from "../components/firebase/firebase.config";
 
+
 export const AuthContext = createContext(null);
 
 const auth = getAuth(app);
@@ -15,6 +16,7 @@ const AuthProvider = ({children}) => {
         setLoading(true);
         return createUserWithEmailAndPassword(auth,email,password);
     }
+    
 
     const updateUserProfile = (name,image) =>{
        // eslint-disable-next-line no-undef
@@ -52,7 +54,8 @@ const AuthProvider = ({children}) => {
         createUser,
         signIn,
         logOut,
-        updateUserProfile
+        updateUserProfile,
+        
 
 
     };

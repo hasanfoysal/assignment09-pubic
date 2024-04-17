@@ -32,7 +32,7 @@ const UpdateProfile = () => {
             <span className="label-text">photo url</span>
           </label>
           
-          <input type="" placeholder="password" className="input input-bordered" required />
+          <input type="text" placeholder="Photo url" className="input input-bordered" required />
           <label className="label">
             <a href="#" className="label-text-alt link link-hover">Forgot password?</a>
           </label>
