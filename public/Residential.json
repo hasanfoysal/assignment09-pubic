@@ -1,6 +1,6 @@
 [
     {
-      "image": "/public/contact.jpg",
+      "image": "/contact.jpg",
       "estate_title": "Modern Family Home in Desirable Neighborhood",
       "id": 1,
       "segment_name": "Residential",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "image": "/public/r1.png",
+      "image": "/r1.png",
       "estate_title": "Cozy Townhouse in Quiet Community",
       "id": 2,
       "segment_name": "Residential",
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "image": "/public/r2.png",
+      "image": "/r2.png",
       "estate_title": "Luxury High-Rise Apartment with City Views",
       "id": 3,
       "segment_name": "Residential",
@@ -61,7 +61,7 @@
       ]
     },
     {
-        "image": "/public/r3.png",
+        "image": "/r3.png",
         "estate_title": "Student-Friendly Apartment Near University",
         "id": 4,
         "segment_name": "Residential",
@@ -81,7 +81,7 @@
         ]
       },
       {
-        "image": "/public/house-1867187_1280.jpg",
+        "image": "/house-1867187_1280.jpg",
         "estate_title": "Spacious Townhouse",
         "id": 5,
         "segment_name": "Residential",
@@ -103,7 +103,7 @@
         "view_property_button": "View Townhouse"
       },
       {
-        "image": "/public/large-home-389271_1280.jpg",
+        "image": "/large-home-389271_1280.jpg",
         "estate_title": "Charming Townhouse in Quiet Community",
         "id": 6,
         "segment_name": "Residential",

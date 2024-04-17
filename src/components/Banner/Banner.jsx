@@ -14,7 +14,7 @@ const Banner = () => {
   <div id="slide1" className="carousel-item relative w-full ">
   <div className="hero min-h-screen bg-black">
   <div className="hero-content flex-col lg:flex-row-reverse">
-    <img src="/public/r2.png" className=" w-[300px] h-[300px]  lg:ml-24 rounded-lg shadow-3xl lg:h-[400px] lg:w-[500px]"   data-aos="fade-up-left"
+    <img src="/r2.png" className=" w-[300px] h-[300px]  lg:ml-24 rounded-lg shadow-3xl lg:h-[400px] lg:w-[500px]"   data-aos="fade-up-left"
      data-aos-easing="linear"
      data-aos-duration="1500"/>
     <div className="mr-4 ">
@@ -22,7 +22,8 @@ const Banner = () => {
      data-aos-duration="2000">Discover <br />
     Most Suitable <br />
 Property</h1>
-      <p className="py-4 pb-8 text-zinc-300 mx-4">Find a variety of properties that suit you very easilty 
+      <p className="py-4 pb-8 text-zinc-300 mx-4" data-aos="fade-up"
+     data-aos-duration="2500">Find a variety of properties that suit you very easilty 
 Forget <br /> all difficulties in finding a residence for you</p>
 <div className="lg:flexCenter stats flex-row w-[280px] lg:w-full">
             <div className="flexColCenter stat ">

@@ -35,7 +35,7 @@ const Navbar = () => {
             {links}
             </ul>
           </div>
-          <img className="lg:w-24 lg:h-24 w-16 h-16 rounded-3xl lg:ml-24" src="/public/download (1).png" alt="" />
+          <img className="lg:w-24 lg:h-24 w-16 h-16 rounded-3xl lg:ml-24" src="/download (1).png" alt="" />
         </div>
     
         <div className="navbar-end lg:mr-10">
@@ -46,7 +46,7 @@ const Navbar = () => {
         </div>
         <div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar mr-2">
         <div className="w-12 rounded-full">
-          <img alt="Tailwind CSS Navbar component" src="/public/240_F_118033377_JKQA3UFE4joJ1k67dNoSmmoG4EsQf9Ho.jpg" />
+          <img alt="Tailwind CSS Navbar component" src="/240_F_118033377_JKQA3UFE4joJ1k67dNoSmmoG4EsQf9Ho.jpg" />
         </div>
       </div>
       {

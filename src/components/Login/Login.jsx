@@ -81,9 +81,9 @@ const Login = () => {
     return (
         <div >
  <Helmet>
-                <meta charSet="utf-8" />
-                <title>Home</title>
-                <link rel="canonical" href="http://mysite.com/example" />
+               
+                <title>Login</title>
+               
             </Helmet>
         <div className="hero min-h-screen bg-base-200" >
         <div className="hero-content flex-col lg:flex-row-reverse">
