@@ -59,7 +59,7 @@ Forget <br /> all difficulties in finding a residence for you</p>
   <div id="slide2" className="carousel-item relative w-full">
   <div className="hero min-h-screen bg-black">
   <div className="hero-content flex-col lg:flex-row-reverse">
-    <img src="/public/contact.jpg" className="lg:ml-24 rounded-lg shadow-3xl lg:h-[400px] lg:w-[500px] w-[300px] h-[300px]"   data-aos="fade-up-left"
+    <img src="/contact.jpg" className="lg:ml-24 rounded-lg shadow-3xl lg:h-[400px] lg:w-[500px] w-[300px] h-[300px]"   data-aos="fade-up-left"
      data-aos-easing="linear"
      data-aos-duration="1500"/>
     <div className="mr-4 " data-aos="fade-up-right"
@@ -103,7 +103,7 @@ Forget <br /> all difficulties in finding a residence for you</p>
   <div id="slide3" className="carousel-item relative w-full">
   <div className="hero min-h-screen bg-black">
   <div className="hero-content flex-col lg:flex-row-reverse">
-    <img src="/public/r1.png" className="  lg:ml-24 rounded-lg shadow-3xl lg:h-[400px] lg:w-[500px] w-[300px] h-[300px]"   data-aos="fade-up-left"
+    <img src="/r1.png" className="  lg:ml-24 rounded-lg shadow-3xl lg:h-[400px] lg:w-[500px] w-[300px] h-[300px]"   data-aos="fade-up-left"
      data-aos-easing="linear"
      data-aos-duration="1500"/>
     <div className="mr-4 " data-aos="fade-up-right"
@@ -147,7 +147,7 @@ Forget <br /> all difficulties in finding a residence for you</p>
   <div id="slide4" className="carousel-item relative w-full">
   <div className="hero min-h-screen bg-black">
   <div className="hero-content flex-col lg:flex-row-reverse">
-    <img src="/public/r3.png" className=" lg:ml-24 rounded-lg shadow-3xl lg:h-[400px] lg:w-[500px] w-[300px] h-[300px]"   data-aos="fade-up-left"
+    <img src="/r3.png" className=" lg:ml-24 rounded-lg shadow-3xl lg:h-[400px] lg:w-[500px] w-[300px] h-[300px]"   data-aos="fade-up-left"
      data-aos-easing="linear"
      data-aos-duration="1500"/>
     <div className="mr-4 " data-aos="fade-up-right"
